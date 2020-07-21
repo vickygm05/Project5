@@ -17,6 +17,8 @@ public class Employee {
 				
 		System.out.println(a[1][1]);
 		
+		System.out.println(a[1][2]);
+
 		
 		System.out.println(a[1][2] );
 
@@ -24,6 +26,6 @@ public class Employee {
 		
 		System.out.println(a[1][1]);
 
-		
+
 }
 }
